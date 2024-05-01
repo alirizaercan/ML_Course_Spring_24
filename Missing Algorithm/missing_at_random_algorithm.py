@@ -1,6 +1,6 @@
 import random
 
-file_path = "Missing Algorithm\data_second_week.txt"
+file_path = "data_second_week.txt"
 with open(file_path, "r") as file:
     lines = file.readlines()
 
