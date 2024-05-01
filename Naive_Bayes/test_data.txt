@@ -1,0 +1,4 @@
+Age,Smoker,Cholesterol,Disease
+30,No,170,?
+49,Yes,220,?
+52,No,200,?

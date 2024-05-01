@@ -1,0 +1,7 @@
+Age,Smoker,Cholesterol,Disease
+28,No,180,Negative
+45,Yes,210,Positive
+50,No,190,Negative
+37,Yes,230,Positive
+32,No,160,Negative
+58,Yes,240,Positive
